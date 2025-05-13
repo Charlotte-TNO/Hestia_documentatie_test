@@ -1,4 +1,3 @@
-
 ---
 title: Pagina 1.1
 layout: home
